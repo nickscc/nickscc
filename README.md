@@ -1,6 +1,3 @@
-<br>
-<br>
-
 <h2 align=center>Hi! I'm Nicole Carrillo.</h2>
 
 <h3 align=center>Frontend Developer</h3>
