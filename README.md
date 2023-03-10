@@ -3,7 +3,7 @@
 <h3 align=center>Frontend Developer</h3>
 
 <p align="center">
-  At the moment I am trying to improve my logic skills at resolving algorithms and data structures problems, such as leetcode problems.
+  At the moment I am trying to improve my logic skills at resolving algorithms and data structures problems from leetcode
   <br>
   With backgrounds in team leadership, project management, chemistry (don't ask)<br> I hope that in one year I can achive my goal. 
   <br>
